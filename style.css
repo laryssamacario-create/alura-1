@@ -1,0 +1,33 @@
+.prato {
+  border: 2px solid #d4af37;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #f5f5f5;
+  margin: 10px 0;
+}
+
+.prato h3 {
+  color: #d32f2f;
+  margin: 0 0 8px 0;
+}
+
+.descricao {
+  color: #666;
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.preco {
+  font-weight: bold;
+  color: #d32f2f;
+  font-size: 18px;
+}
+
+.categoria {
+  background-color: #d32f2f;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-left: 10px;
+}
